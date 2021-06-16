@@ -94,7 +94,7 @@ A business scaling automation tool for SMES with deep focus improving sales and 
 #### 📫 How to reach me:
   - Email: dammyololade2010@gmail.com
   - Linkedln: https://www.linkedin.com/in/adeyemo-adedamola/
-  - Twitter: @Dammyololade
+  - Twitter: https://twitter.com/dammyololade
 
 <!--
 **Dammyololade/Dammyololade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
