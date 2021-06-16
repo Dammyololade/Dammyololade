@@ -5,6 +5,16 @@ A versatile mobile engineer possessing over 7 years of industry experience with 
 ### Projects:
 [Transporter App](https://apps.apple.com/us/app/kobo-transporter/id1476194142?ls=1)<br/>
 Led a team of 5 engineers in building a completely new pan-african logistics solution with a robust architecture which in turn increased the app's adoption rate by 800% using flutter framework. This was achieved by using flutter's clean code architecture incorporating the bloc design pattern. The solution also offered a native map implementation that gives 100% asset visibility hereby improving the app's reliability.
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 1.png">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 1.png" width="200"/></a>
+</td>
+ <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/flutter_polyline_points/master/poly.jpeg">
+    <img src="https://raw.githubusercontent.com/Dammyololade/flutter_polyline_points/master/poly.jpeg" width="200"/></a>
+</td>
+</tr></table></div>
 
 
 #### 📫 How to reach me:
