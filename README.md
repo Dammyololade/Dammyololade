@@ -101,6 +101,14 @@ A business scaling automation tool for SMES with deep focus improving sales and 
 </td>
 </tr></table></div>
 
+#### Links to Other Projects
+  - Medical consultation apps with calls and chats using Twillo api integration [Android](https://play.google.com/store/apps/details?id=com.webmediks.io)
+  - Location based attorney discovery & hiring app [Android](https://play.google.com/store/apps/details?id=com.zbm.myattorney) [IOS](https://itunes.apple.com/us/app/my-attorney-ng/id1422379164#?platform=iphone)
+  - Android App for quick note/memo [Link](https://play.google.com/store/apps/details?id=com.novugrid.snappynote)
+  - Biometeric attendance system Desktop App (Java) [Organisation](https://sourceforge.net/projects/trackmetricks/), [Schools & colleges](https://sourceforge.net/p/ovice-time/)
+  - Local trade and exchange app [Android](https://play.google.com/store/apps/details?id=com.novugrid.paro_mobile) [IOS](https://apps.apple.com/us/app/baater/id1466709189)
+  - An online sales enforcer to scale local SMEs [Android](https://play.google.com/store/apps/details?id=com.novugrid.nojasales)
+
 
 #### 📫 How to reach me:
   - [Email](dammyololade2010@gmail.com)
