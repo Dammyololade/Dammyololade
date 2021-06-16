@@ -8,11 +8,11 @@ Led a team of 5 engineers in building a completely new pan-african logistics sol
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
   <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 1.png">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 1.png" width="200"/></a>
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 1.png" width="200" hight="200"/></a>
 </td>
  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/flutter_polyline_points/master/poly.jpeg">
-    <img src="https://raw.githubusercontent.com/Dammyololade/flutter_polyline_points/master/poly.jpeg" width="200"/></a>
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 2.png">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 2.png" width="200"/></a>
 </td>
 </tr></table></div>
 
