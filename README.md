@@ -111,7 +111,7 @@ A business scaling automation tool for SMES with deep focus improving sales and 
 
 
 #### 📫 How to reach me:
-  - [Email](dammyololade2010@gmail.com)
+  - Email: dammyololade2010@gmail.com
   - Linkedln: https://www.linkedin.com/in/adeyemo-adedamola/
   - Twitter: https://twitter.com/dammyololade
   - Medium: https://medium.com/@dammyololade2010
