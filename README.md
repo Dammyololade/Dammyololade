@@ -3,16 +3,68 @@
 A versatile mobile engineer possessing over 7 years of industry experience with proficiency in various mobile stacks ranging from Java, Kotlin to Swift, flutter etc. I have great expertise in bringing simplicity of well architected designs into developing scalable, complex applications with a wide range of knowledge in E-commerce, E-logistics, Tele-medicine etc, to mention a few. Having experience in mobile development with deep understanding of Object oriented programming, I’m proficient at developing apps based on customer specifications recommending application changes to make more efficient programs and upgrading existing apps to make them more useful. I have a good knowledge of the mobile sdks and design guidelines owing to years of experience with a dedicated focus on structured architectural and design patterns following coding standards. I’ve worked with different frameworks such as Flutter, Butterknife, okhttp and experienced with consuming REST apis.
 
 ### Projects:
-[Transporter App](https://apps.apple.com/us/app/kobo-transporter/id1476194142?ls=1)<br/>
-Led a team of 5 engineers in building a completely new pan-african logistics solution with a robust architecture which in turn increased the app's adoption rate by 800% using flutter framework. This was achieved by using flutter's clean code architecture incorporating the bloc design pattern. The solution also offered a native map implementation that gives 100% asset visibility hereby improving the app's reliability.
+Led a team of 5 engineers in building a completely new pan-african logistics solution with a robust architecture which in turn increased the app's adoption rate by 800% using flutter framework. This was achieved by using flutter's clean code architecture incorporating the bloc design pattern. The solution also offered a native map implementation that gives 100% asset visibility hereby improving the app's reliability.<br/>
+Available on both [Android](https://play.google.com/store/apps/details?id=io.kobodriver.kobodriver) and [IOS](https://apps.apple.com/us/app/kobo-transporter/id1476194142?ls=1).
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
   <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 1.png">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 1.png" width="200" hight="200"/></a>
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 1.png" width="200"/></a>
 </td>
  <td style="text-align: center">
   <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 2.png">
     <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 2.png" width="200"/></a>
+</td>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 3.png">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 3.png" width="200"/></a>
+</td>
+  </td>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 4.png">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 4.png" width="200"/></a>
+</td>
+</tr></table></div>
+
+<br/><br/><br/><br/>
+#### DEWallet
+A mobile E-commerce solution engineered with a scalable micro service architecture, processing thousands of transactions with zero downtime. <br/>
+Available on both [Android](https://play.google.com/store/apps/details?id=com.novugrid.de_wallet) and [IOS](https://apps.apple.com/us/app/de-wallet/id1484134193)
+
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet_1.jpeg">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet_1.jpeg" width="200"/></a>
+</td>
+ <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet_2.jpeg">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet_2.jpeg" width="200"/></a>
+</td>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet_3.jpeg">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet_3.jpeg" width="200"/></a>
+</td>
+</tr></table></div>
+
+<br/><br/><br/><br/>
+[Noja](https://play.google.com/store/apps/details?id=com.novugrid.noja360)<br/>
+A business scaling automation tool for SMES with deep focus improving sales and customer retention
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_1.png">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_1.png" width="200"/></a>
+</td>
+ <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_2.png">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_2.png" width="200"/></a>
+</td>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_3.png">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_3.png" width="200"/></a>
+</td>
+  </td>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_5.png">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_5.png" width="200"/></a>
 </td>
 </tr></table></div>
 
