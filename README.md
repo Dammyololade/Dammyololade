@@ -47,6 +47,17 @@ Available on both [Android](https://play.google.com/store/apps/details?id=com.no
 </tr></table></div>
 <br/><br/>
 
+#### 3D matrix animation
+A project to showcase how to use pageview 3dMatix and animation in a mobile app.
+
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center">
+  <a href="https://github.com/Dammyololade/flutter_animation_challenge/blob/master/demo.gif">
+    <img src="https://github.com/Dammyololade/flutter_animation_challenge/blob/master/demo.gif" width="200"/></a>
+</td>
+</tr></table></div>
+<br/><br/>
+
 #### Event based Location discovery app
 A mobile solution for event/places discovery that curates results on location based machine learning and artificial intelligence algorithm to provide exciting and fascinating contents which drives user retention.<br/>
 [Android](https://play.google.com/store/apps/details?id=com.mycrawlapp.crawl)
@@ -92,9 +103,10 @@ A business scaling automation tool for SMES with deep focus improving sales and 
 
 
 #### 📫 How to reach me:
-  - Email: dammyololade2010@gmail.com
+  - [Email](dammyololade2010@gmail.com)
   - Linkedln: https://www.linkedin.com/in/adeyemo-adedamola/
   - Twitter: https://twitter.com/dammyololade
+  - Medium: https://medium.com/@dammyololade2010
 
 <!--
 **Dammyololade/Dammyololade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
