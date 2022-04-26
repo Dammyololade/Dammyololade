@@ -27,6 +27,31 @@ Available on both [Android](https://play.google.com/store/apps/details?id=io.kob
 </tr></table></div>
 <br/><br/>
 
+#### Intelligent Habit Tracking app
+A human congitive, behavioural and produtivity enhancement tool that uses adaptive learning capabilites and algorithms for analyzing result.
+Available on Both [Android](https://play.google.com/store/apps/details?id=com.inisev.track_n_analyze) and [IOS](https://apps.apple.com/us/app/track-analyze/id1589595818#?platform=iphone)
+
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-1.jpeg">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-1.jpeg" width="200"/></a>
+</td>
+ <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-2.jpeg">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-2.jpeg" width="200"/></a>
+</td>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-3.jpeg">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-3.jpeg" width="200"/></a>
+</td>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-4.jpeg">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-4.jpeg" width="200"/></a>
+</td>
+</tr></table></div>
+<br/><br/>
+
+
 #### Data & Internet Acquisition Service
 A mobile E-commerce solution engineered with a scalable micro service architecture, processing thousands of transactions with zero downtime. <br/>
 Available on both [Android](https://play.google.com/store/apps/details?id=com.novugrid.de_wallet) and [IOS](https://apps.apple.com/us/app/de-wallet/id1484134193)
