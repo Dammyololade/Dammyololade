@@ -4,7 +4,7 @@ A versatile mobile engineer possessing over 7 years of industry experience with 
 
 ### Projects:
 #### Logistics & Fleet management tool
-Led a team of 5 engineers in building a completely new pan-african logistics solution with a robust architecture which in turn increased the app's adoption rate by 800% using flutter framework. This was achieved by using flutter's clean code architecture incorporating the bloc design pattern. The solution also offered a native map implementation that gives 100% asset visibility hereby improving the app's reliability.<br/>
+Led a team of mobile engineers in building a completely new pan-african logistics solution with a robust architecture which in turn increased the app's adoption rate by 800% using flutter framework. This was achieved by using flutter's clean code architecture incorporating the bloc design pattern. The solution also offered a native map implementation that gives 100% asset visibility hereby improving the app's reliability.<br/>
 Available on both [Android](https://play.google.com/store/apps/details?id=io.kobodriver.kobodriver) and [IOS](https://apps.apple.com/us/app/kobo-transporter/id1476194142?ls=1).
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
