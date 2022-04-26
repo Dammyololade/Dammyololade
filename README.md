@@ -33,16 +33,20 @@ Available on both [Android](https://play.google.com/store/apps/details?id=com.no
 
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet_1.jpeg">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet_1.jpeg" width="200"/></a>
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-1.jpeg">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-1.jpeg" width="200"/></a>
 </td>
  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet_2.jpeg">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet_2.jpeg" width="200"/></a>
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-2.jpeg">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-2.jpeg" width="200"/></a>
 </td>
   <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet_3.jpeg">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet_3.jpeg" width="200"/></a>
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-3.jpeg">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-3.jpeg" width="200"/></a>
+</td>
+  <td style="text-align: center">
+  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-4.jpeg">
+    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-4.jpeg" width="200"/></a>
 </td>
 </tr></table></div>
 <br/><br/>
