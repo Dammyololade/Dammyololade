@@ -48,7 +48,7 @@ These days my focus has broadened beyond apps — I run my own Kubernetes cluste
 
 ### 🚀 Featured Open Source
 
-| Project | Description | |
+| Project | Description | Stars |
 | --- | --- | --- |
 | **[flutter_polyline_points](https://github.com/Dammyololade/flutter_polyline_points)** | Decodes encoded Google polyline strings into geo-coordinates for drawing routes/polylines on maps — a widely-used Flutter plugin. | ![stars](https://img.shields.io/github/stars/Dammyololade/flutter_polyline_points?style=flat) |
 | **[smart_coverage](https://github.com/Dammyololade/smart_coverage)** | A modern Dart CLI for intelligent test-coverage analysis with AI-powered insights for Flutter/Dart projects. | ![stars](https://img.shields.io/github/stars/Dammyololade/smart_coverage?style=flat) |
@@ -77,10 +77,10 @@ Led a team of mobile engineers in building a pan-African logistics solution from
 Available on [Android](https://play.google.com/store/apps/details?id=io.kobodriver.kobodriver) and [iOS](https://apps.apple.com/us/app/kobo-transporter/id1476194142?ls=1).
 
 <div align="center"><table><tr>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 1.png"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 1.png" width="200"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 2.png"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 2.png" width="200"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 3.png"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 3.png" width="200"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 4.png"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 4.png" width="200"/></a></td>
+  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%201.png"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%201.png" width="200"/></a></td>
+  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%202.png"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%202.png" width="200"/></a></td>
+  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%203.png"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%203.png" width="200"/></a></td>
+  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%204.png"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%204.png" width="200"/></a></td>
 </tr></table></div>
 
 #### Intelligent Habit Tracking (Track & Analyze)
@@ -140,7 +140,7 @@ Available on [Android](https://play.google.com/store/apps/details?id=com.novugri
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dammyololade&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dammyololade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dammyololade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
