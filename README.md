@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adeyemo Adedamola 👋</h1>
 
 <p align="center">
-  <b>Senior Software Engineer</b> · Mobile · Backend · AI Tooling · Platform & Infra
+  <b>Lead Software Engineer</b> · Mobile · Backend · AI Tooling · Platform & Infra
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About me
 
-I'm a versatile software engineer with **10+ years** of industry experience, originally rooted in mobile (Java, Kotlin, Swift, Flutter) and now building across the full stack — backend services, AI-powered developer tooling, and the platform/infrastructure that runs them.
+I'm a **Lead Software Engineer** with **10+ years** of industry experience, originally rooted in mobile (Java, Kotlin, Swift, Flutter) and now leading and building across the full stack — backend services, AI-powered developer tooling, and the platform/infrastructure that runs them.
 
 I care deeply about well-architected, scalable systems: clean architecture, structured design patterns, and coding standards that hold up as products grow. Over the years I've shipped production software across **E-commerce, E-logistics, Tele-medicine, FinTech and business automation**, led mobile teams, and maintained open-source libraries used by thousands of developers.
 
