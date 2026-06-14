@@ -82,7 +82,19 @@ These days my focus has broadened beyond apps — I run my own Kubernetes cluste
 
 **[loki_logger](https://github.com/Dammyololade/loki_logger)** &nbsp;![stars](https://img.shields.io/github/stars/Dammyololade/loki_logger?style=flat&color=FB923C) — a Flutter plugin for shipping application logs straight to a Grafana Loki server.
 
+<a href="https://github.com/Dammyololade/flutter_marker_animation"><img src="assets/flutter_marker_animation.svg" width="100%" alt="flutter_marker_animation"/></a>
+
+**[flutter_marker_animation](https://github.com/Dammyololade/flutter_marker_animation)** &nbsp;![stars](https://img.shields.io/github/stars/Dammyololade/flutter_marker_animation?style=flat&color=2DD4BF) — smoothly animates Google-map markers by bridging Dart to native Kotlin/Swift.
+
 **More on GitHub:** [weaviate-console](https://github.com/Dammyololade/weaviate-console) · [flutter_github_explorer](https://github.com/Dammyololade/flutter_github_explorer) · [all repositories »](https://github.com/Dammyololade?tab=repositories)
+
+---
+
+### 🛠️ Platform & Infrastructure
+
+<img src="assets/infra.svg" width="100%" alt="Self-hosted Platform — Kubernetes, n8n and disaster recovery"/>
+
+I run my own production platform end-to-end: a **Contabo Kubernetes cluster** (manifests of record), **n8n** workflow automations exported and version-controlled, and a documented **disaster-recovery runbook** for clean restores. It's the backbone that the products above run on.
 
 ---
 
