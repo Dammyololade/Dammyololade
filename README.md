@@ -59,12 +59,16 @@ These days my focus has broadened beyond apps — I run my own Kubernetes cluste
 
 ---
 
-### 🏗️ Currently Building
+### 🏗️ Currently Building — 2026 Focus
 
-- **SwiftGrid** — a product I'm building, with an Astro-based marketing/landing site.
-- **Greena** — a NestJS backend powering the Greena application.
-- **product-reality** — a TypeScript product I'm actively developing.
-- **infra** — my self-hosted platform: Contabo Kubernetes cluster manifests, n8n workflow exports, and disaster-recovery runbooks.
+#### 🚚 [SendOS](https://sendos.app) — The Logistics Operating System for Africa
+A complete, deploy-ready logistics stack — a branded **customer app**, **rider app**, and **operations dashboard** that work as one. Built from the ground up for African realities: **landmark-based addressing** (no postal codes needed), resilient on **3G with aggressive offline caching and auto-retries**, native **bank transfer, USSD & mobile-money** payments, and tuned for **mid-range Android** devices. Operators can configure their brand and go live in **48–72 hours**.
+
+#### ☁️ [TafiCloud](https://taficloud.com) — Smart Cloud Solutions
+A cloud file & media platform that makes heavy file workflows effortless: **upload, download, merge files, extract media metadata, and convert between formats** through a clean API — complete with a native **Swift SDK** (CocoaPods & SPM) for seamless iOS integration.
+
+#### 🧪 product-reality
+A product I'm actively building in TypeScript. *(More details coming soon.)*
 
 > Several of these live in private repositories while in active development.
 
