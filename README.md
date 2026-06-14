@@ -58,7 +58,7 @@ These days my focus has broadened beyond apps — I run my own Kubernetes cluste
 
 <img src="assets/product-reality.svg" width="100%" alt="product-reality"/>
 
-**product-reality** is a new product I'm actively building in TypeScript. *(More details coming soon.)*
+**product-reality** lets founders and builders book a **1:1 reality-check call** with me to pressure-test their idea — so they know whether what they want to build is actually worth building *before* they write a line of code.
 
 > Several of these live in private repositories while in active development.
 
