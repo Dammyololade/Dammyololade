@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="160" viewBox="0 0 860 160" role="img" aria-label="flutter_polyline_points — decode Google polylines into map routes">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a2233"/>
+      <stop offset="1" stop-color="#103048"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="860" height="160" rx="18" fill="url(#bg)"/>
+  <text x="648" y="206" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="190" font-weight="800" fill="#40C4FF" opacity="0.06">F</text>
+  <text x="44" y="56" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#ffffff">flutter_polyline_points</text>
+  <rect x="44" y="68" width="56" height="4" rx="2" fill="#40C4FF"/>
+  <text x="44" y="98" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#a9def7">Decode Google polylines into map routes — used by thousands of apps</text>
+  <g font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14">
+    <rect x="44" y="116" width="78" height="27" rx="13" fill="#40C4FF" fill-opacity="0.15" stroke="#40C4FF" stroke-opacity="0.45"/>
+    <text x="57" y="134" fill="#d6f1ff">Flutter</text>
+    <rect x="134" y="116" width="56" height="27" rx="13" fill="#40C4FF" fill-opacity="0.15" stroke="#40C4FF" stroke-opacity="0.45"/>
+    <text x="147" y="134" fill="#d6f1ff">Maps</text>
+    <rect x="202" y="116" width="70" height="27" rx="13" fill="#40C4FF" fill-opacity="0.18" stroke="#40C4FF" stroke-opacity="0.6"/>
+    <text x="215" y="134" fill="#ffffff" font-weight="700">127 ★</text>
+  </g>
+</svg>

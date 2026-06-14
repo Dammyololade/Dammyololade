@@ -21,7 +21,7 @@ I care deeply about well-architected, scalable systems: clean architecture, stru
 
 These days my focus has broadened beyond apps — I run my own Kubernetes cluster, automate workflows with n8n, build AI/LLM-assisted tooling around code review and quality, and work with vector databases and modern TypeScript/NestJS backends.
 
-- 🔭 Building **SwiftGrid**, **Greena**, and **product-reality**
+- 🔭 Building **[SendOS](https://sendos.app)**, **[TafiCloud](https://taficloud.com)**, and **product-reality**
 - 🌱 Deep in **AI/LLM tooling**, **vector databases (Weaviate)**, and **platform engineering**
 - 🛠️ Maintaining open-source Flutter & developer-tooling projects
 - 💬 Ask me about **Flutter architecture**, **mobile at scale**, **CI/CD**, or **self-hosted infra**
@@ -46,97 +46,43 @@ These days my focus has broadened beyond apps — I run my own Kubernetes cluste
 
 ---
 
-### 🚀 Featured Open Source
-
-| Project | Description | Stars |
-| --- | --- | --- |
-| **[flutter_polyline_points](https://github.com/Dammyololade/flutter_polyline_points)** | Decodes encoded Google polyline strings into geo-coordinates for drawing routes/polylines on maps — a widely-used Flutter plugin. | ![stars](https://img.shields.io/github/stars/Dammyololade/flutter_polyline_points?style=flat) |
-| **[smart_coverage](https://github.com/Dammyololade/smart_coverage)** | A modern Dart CLI for intelligent test-coverage analysis with AI-powered insights for Flutter/Dart projects. | ![stars](https://img.shields.io/github/stars/Dammyololade/smart_coverage?style=flat) |
-| **[loki_logger](https://github.com/Dammyololade/loki_logger)** | Flutter plugin for shipping application logs to a Grafana Loki server. | ![stars](https://img.shields.io/github/stars/Dammyololade/loki_logger?style=flat) |
-| **[ticket-pr-validation-action](https://github.com/Dammyololade/ticket-pr-validation-action)** | GitHub Action that validates PRs against Linear tickets, extracts acceptance criteria, and triggers AI-assisted reviews. | ![stars](https://img.shields.io/github/stars/Dammyololade/ticket-pr-validation-action?style=flat) |
-| **[flutter_github_explorer](https://github.com/Dammyololade/flutter_github_explorer)** | Flutter app for searching & exploring GitHub repos — BLoC state management + clean architecture. | ![stars](https://img.shields.io/github/stars/Dammyololade/flutter_github_explorer?style=flat) |
-| **[weaviate-console](https://github.com/Dammyololade/weaviate-console)** | A console/tooling layer for working with the Weaviate vector database. | ![stars](https://img.shields.io/github/stars/Dammyololade/weaviate-console?style=flat) |
-
----
-
 ### 🏗️ Currently Building — 2026 Focus
 
-#### 🚚 [SendOS](https://sendos.app) — The Logistics Operating System for Africa
-A complete, deploy-ready logistics stack — a branded **customer app**, **rider app**, and **operations dashboard** that work as one. Built from the ground up for African realities: **landmark-based addressing** (no postal codes needed), resilient on **3G with aggressive offline caching and auto-retries**, native **bank transfer, USSD & mobile-money** payments, and tuned for **mid-range Android** devices. Operators can configure their brand and go live in **48–72 hours**.
+<a href="https://sendos.app"><img src="assets/sendos.svg" width="100%" alt="SendOS — The Logistics Operating System for Africa"/></a>
 
-#### ☁️ [TafiCloud](https://taficloud.com) — Smart Cloud Solutions
-A cloud file & media platform that makes heavy file workflows effortless: **upload, download, merge files, extract media metadata, and convert between formats** through a clean API — complete with a native **Swift SDK** (CocoaPods & SPM) for seamless iOS integration.
+**[SendOS](https://sendos.app)** is a complete, deploy-ready logistics stack — a branded **customer app**, **rider app**, and **operations dashboard** that work as one. Built from the ground up for African realities: **landmark-based addressing** (no postal codes needed), resilient on **3G with aggressive offline caching and auto-retries**, native **bank transfer, USSD & mobile-money** payments, and tuned for **mid-range Android** devices. Operators configure their brand and go live in **48–72 hours**.
 
-#### 🧪 product-reality
-A product I'm actively building in TypeScript. *(More details coming soon.)*
+<a href="https://taficloud.com"><img src="assets/taficloud.svg" width="100%" alt="TafiCloud — Smart cloud file and media platform"/></a>
+
+**[TafiCloud](https://taficloud.com)** is a smart cloud file & media platform that makes heavy file workflows effortless: **upload, download, merge files, extract media metadata, and convert between formats** through a clean API — complete with a native **Swift SDK** (CocoaPods & SPM) for seamless iOS integration.
+
+<img src="assets/product-reality.svg" width="100%" alt="product-reality"/>
+
+**product-reality** is a new product I'm actively building in TypeScript. *(More details coming soon.)*
 
 > Several of these live in private repositories while in active development.
 
 ---
 
-### 📱 Shipped Products
+### 🚀 Featured Open Source
 
-#### Logistics & Fleet Management (Kobo Transporter)
-Led a team of mobile engineers in building a pan-African logistics solution from scratch, increasing the app's adoption rate by **800%**. Built with Flutter using clean architecture and the BLoC pattern, plus a native map implementation delivering **100% asset visibility**.
-Available on [Android](https://play.google.com/store/apps/details?id=io.kobodriver.kobodriver) and [iOS](https://apps.apple.com/us/app/kobo-transporter/id1476194142?ls=1).
+<a href="https://github.com/Dammyololade/flutter_polyline_points"><img src="assets/flutter_polyline_points.svg" width="100%" alt="flutter_polyline_points"/></a>
 
-<div align="center"><table><tr>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%201.png"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%201.png" width="200"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%202.png"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%202.png" width="200"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%203.png"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%203.png" width="200"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%204.png"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame%204.png" width="200"/></a></td>
-</tr></table></div>
+**[flutter_polyline_points](https://github.com/Dammyololade/flutter_polyline_points)** &nbsp;![stars](https://img.shields.io/github/stars/Dammyololade/flutter_polyline_points?style=flat&color=40C4FF) — decodes encoded Google polyline strings into geo-coordinates for drawing routes on maps. One of the most widely-used polyline plugins in the Flutter ecosystem.
 
-#### Intelligent Habit Tracking (Track & Analyze)
-A cognitive, behavioural and productivity-enhancement tool that uses adaptive learning algorithms to analyze results.
-Available on [Android](https://play.google.com/store/apps/details?id=com.inisev.track_n_analyze) and [iOS](https://apps.apple.com/us/app/track-analyze/id1589595818#?platform=iphone).
+<a href="https://github.com/Dammyololade/smart_coverage"><img src="assets/smart_coverage.svg" width="100%" alt="smart_coverage"/></a>
 
-<div align="center"><table><tr>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-1.jpeg"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-1.jpeg" width="200"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-2.jpeg"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-2.jpeg" width="200"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-3.jpeg"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-3.jpeg" width="200"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-4.jpeg"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-4.jpeg" width="200"/></a></td>
-</tr></table></div>
+**[smart_coverage](https://github.com/Dammyololade/smart_coverage)** &nbsp;![stars](https://img.shields.io/github/stars/Dammyololade/smart_coverage?style=flat&color=22D3EE) — a modern Dart CLI for intelligent test-coverage analysis with AI-powered insights for Flutter/Dart projects.
 
-#### Data & Internet Acquisition Service (De-Wallet)
-A mobile E-commerce solution engineered with a scalable micro-service architecture, processing thousands of transactions with zero downtime.
-Available on [Android](https://play.google.com/store/apps/details?id=com.novugrid.de_wallet) and [iOS](https://apps.apple.com/us/app/de-wallet/id1484134193).
+<a href="https://github.com/Dammyololade/ticket-pr-validation-action"><img src="assets/ticket-pr-validation-action.svg" width="100%" alt="ticket-pr-validation-action"/></a>
 
-<div align="center"><table><tr>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-1.jpeg"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-1.jpeg" width="200"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-2.jpeg"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-2.jpeg" width="200"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-3.jpeg"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-3.jpeg" width="200"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-4.jpeg"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-4.jpeg" width="200"/></a></td>
-</tr></table></div>
+**[ticket-pr-validation-action](https://github.com/Dammyololade/ticket-pr-validation-action)** &nbsp;![stars](https://img.shields.io/github/stars/Dammyololade/ticket-pr-validation-action?style=flat&color=60A5FA) — a GitHub Action that validates PRs against Linear tickets, extracts acceptance criteria, and triggers AI-assisted reviews.
 
-#### Event-based Location Discovery (Crawl)
-A mobile solution for event/places discovery, curating results with location-based ML to drive user retention.
-Available on [Android](https://play.google.com/store/apps/details?id=com.mycrawlapp.crawl).
+<a href="https://github.com/Dammyololade/loki_logger"><img src="assets/loki_logger.svg" width="100%" alt="loki_logger"/></a>
 
-<div align="center"><table><tr>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/crawl_4.jpg"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/crawl_4.jpg" width="200"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/crawl_2.jpg"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/crawl_2.jpg" width="200"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/crawl_1.jpg"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/crawl_1.jpg" width="200"/></a></td>
-</tr></table></div>
+**[loki_logger](https://github.com/Dammyololade/loki_logger)** &nbsp;![stars](https://img.shields.io/github/stars/Dammyololade/loki_logger?style=flat&color=FB923C) — a Flutter plugin for shipping application logs straight to a Grafana Loki server.
 
-#### Business Automation (Noja360)
-A business-scaling automation tool for SMEs, focused on improving sales and customer retention.
-Available on [Android](https://play.google.com/store/apps/details?id=com.novugrid.noja360).
-
-<div align="center"><table><tr>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_1.png"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_1.png" width="200"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_2.png"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_2.png" width="200"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_3.png"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_3.png" width="200"/></a></td>
-  <td><a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_5.png"><img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_5.png" width="200"/></a></td>
-</tr></table></div>
-
-#### Other Products
-- Medical consultation app with calls & chat (Twilio integration) — [Android](https://play.google.com/store/apps/details?id=com.webmediks.io)
-- Location-based attorney discovery & hiring — [Android](https://play.google.com/store/apps/details?id=com.zbm.myattorney) · [iOS](https://itunes.apple.com/us/app/my-attorney-ng/id1422379164#?platform=iphone)
-- Quick note/memo app — [Android](https://play.google.com/store/apps/details?id=com.novugrid.snappynote)
-- Biometric attendance desktop app (Java) — [Organisations](https://sourceforge.net/projects/trackmetricks/) · [Schools & colleges](https://sourceforge.net/p/ovice-time/)
-- Local trade & exchange app (Baater) — [Android](https://play.google.com/store/apps/details?id=com.novugrid.paro_mobile) · [iOS](https://apps.apple.com/us/app/baater/id1466709189)
-- Online sales enforcer for local SMEs — [Android](https://play.google.com/store/apps/details?id=com.novugrid.nojasales)
+**More on GitHub:** [weaviate-console](https://github.com/Dammyololade/weaviate-console) · [flutter_github_explorer](https://github.com/Dammyololade/flutter_github_explorer) · [all repositories »](https://github.com/Dammyololade?tab=repositories)
 
 ---
 
