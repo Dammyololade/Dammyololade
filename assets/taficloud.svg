@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="160" viewBox="0 0 860 160" role="img" aria-label="TafiCloud — Smart cloud file and media platform">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07233f"/>
+      <stop offset="1" stop-color="#0c3357"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="860" height="160" rx="18" fill="url(#bg)"/>
+  <text x="648" y="206" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="190" font-weight="800" fill="#38BDF8" opacity="0.06">T</text>
+  <text x="44" y="58" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#ffffff">TafiCloud</text>
+  <rect x="44" y="70" width="56" height="4" rx="2" fill="#38BDF8"/>
+  <text x="44" y="100" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#a9dcf7">Smart cloud file &amp; media platform with a native Swift SDK</text>
+  <g font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14">
+    <rect x="44" y="118" width="107" height="27" rx="13" fill="#38BDF8" fill-opacity="0.15" stroke="#38BDF8" stroke-opacity="0.45"/>
+    <text x="57" y="136" fill="#d6efff">Cloud Media</text>
+    <rect x="163" y="118" width="93" height="27" rx="13" fill="#38BDF8" fill-opacity="0.15" stroke="#38BDF8" stroke-opacity="0.45"/>
+    <text x="176" y="136" fill="#d6efff">Swift SDK</text>
+    <rect x="268" y="118" width="48" height="27" rx="13" fill="#38BDF8" fill-opacity="0.15" stroke="#38BDF8" stroke-opacity="0.45"/>
+    <text x="281" y="136" fill="#d6efff">iOS</text>
+  </g>
+</svg>

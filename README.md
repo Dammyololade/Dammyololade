@@ -1,161 +1,118 @@
-### Hi I'm Adeyemo Adedamola 👋
+<h1 align="center">Hi, I'm Adeyemo Adedamola 👋</h1>
 
-A versatile mobile engineer possessing over 7 years of industry experience with proficiency in various mobile stacks ranging from Java, Kotlin to Swift, flutter etc. I have great expertise in bringing simplicity of well architected designs into developing scalable, complex applications with a wide range of knowledge in E-commerce, E-logistics, Tele-medicine etc, to mention a few. Having experience in mobile development with deep understanding of Object oriented programming, I’m proficient at developing apps based on customer specifications recommending application changes to make more efficient programs and upgrading existing apps to make them more useful. I have a good knowledge of the mobile sdks and design guidelines owing to years of experience with a dedicated focus on structured architectural and design patterns following coding standards. I’ve worked with different frameworks such as Flutter, Butterknife, okhttp and experienced with consuming REST apis.
+<p align="center">
+  <b>Lead Software Engineer</b> · Mobile · Backend · AI Tooling · Platform & Infra
+</p>
 
-### Projects:
-#### Logistics & Fleet management tool
-Led a team of mobile engineers in building a completely new pan-african logistics solution with a robust architecture which in turn increased the app's adoption rate by 800% using flutter framework. This was achieved by using flutter's clean code architecture incorporating the bloc design pattern. The solution also offered a native map implementation that gives 100% asset visibility hereby improving the app's reliability.<br/>
-Available on both [Android](https://play.google.com/store/apps/details?id=io.kobodriver.kobodriver) and [IOS](https://apps.apple.com/us/app/kobo-transporter/id1476194142?ls=1).
-<div style="text-align: center"><table><tr>
-  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 1.png">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 1.png" width="200"/></a>
-</td>
- <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 2.png">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 2.png" width="200"/></a>
-</td>
-  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 3.png">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 3.png" width="200"/></a>
-</td>
-  </td>
-  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 4.png">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/Frame 4.png" width="200"/></a>
-</td>
-</tr></table></div>
-<br/><br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/adeyemo-adedamola/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/dammyololade"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://medium.com/@dammyololade2010"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="mailto:dammyololade2010@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-#### Intelligent Habit Tracking app
-A human congitive, behavioural and produtivity enhancement tool that uses adaptive learning capabilites and algorithms for analyzing result.
-Available on Both [Android](https://play.google.com/store/apps/details?id=com.inisev.track_n_analyze) and [IOS](https://apps.apple.com/us/app/track-analyze/id1589595818#?platform=iphone)
+---
 
-<div style="text-align: center"><table><tr>
-  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-1.jpeg">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-1.jpeg" width="200"/></a>
-</td>
- <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-2.jpeg">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-2.jpeg" width="200"/></a>
-</td>
-  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-3.jpeg">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-3.jpeg" width="200"/></a>
-</td>
-  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-4.jpeg">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/track-4.jpeg" width="200"/></a>
-</td>
-</tr></table></div>
-<br/><br/>
+### 👨‍💻 About me
 
+I'm a **Lead Software Engineer** with **10+ years** of industry experience, originally rooted in mobile (Java, Kotlin, Swift, Flutter) and now leading and building across the full stack — backend services, AI-powered developer tooling, and the platform/infrastructure that runs them.
 
-#### Data & Internet Acquisition Service
-A mobile E-commerce solution engineered with a scalable micro service architecture, processing thousands of transactions with zero downtime. <br/>
-Available on both [Android](https://play.google.com/store/apps/details?id=com.novugrid.de_wallet) and [IOS](https://apps.apple.com/us/app/de-wallet/id1484134193)
+I care deeply about well-architected, scalable systems: clean architecture, structured design patterns, and coding standards that hold up as products grow. Over the years I've shipped production software across **E-commerce, E-logistics, Tele-medicine, FinTech and business automation**, led mobile teams, and maintained open-source libraries used by thousands of developers.
 
-<div style="text-align: center"><table><tr>
-  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-1.jpeg">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-1.jpeg" width="200"/></a>
-</td>
- <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-2.jpeg">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-2.jpeg" width="200"/></a>
-</td>
-  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-3.jpeg">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-3.jpeg" width="200"/></a>
-</td>
-  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-4.jpeg">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/dewallet-4.jpeg" width="200"/></a>
-</td>
-</tr></table></div>
-<br/><br/>
+These days my focus has broadened beyond apps — I run my own Kubernetes cluster, automate workflows with n8n, build AI/LLM-assisted tooling around code review and quality, and work with vector databases and modern TypeScript/NestJS backends.
 
-#### 3D matrix animation
-A project to showcase how to use pageview 3dMatix and animation in a mobile app.
+- 🔭 Building **[SendOS](https://sendos.app)**, **[TafiCloud](https://taficloud.com)**, and **product-reality**
+- 🌱 Deep in **AI/LLM tooling**, **vector databases (Weaviate)**, and **platform engineering**
+- 🛠️ Maintaining open-source Flutter & developer-tooling projects
+- 💬 Ask me about **Flutter architecture**, **mobile at scale**, **CI/CD**, or **self-hosted infra**
 
-<div style="text-align: center"><table><tr>
-  <td style="text-align: center">
-  <a href="https://github.com/Dammyololade/flutter_animation_challenge/blob/master/demo.gif">
-    <img src="https://github.com/Dammyololade/flutter_animation_challenge/blob/master/demo.gif" width="200"/></a>
-</td>
-</tr></table></div>
-<br/><br/>
+---
 
-#### Event based Location discovery app
-A mobile solution for event/places discovery that curates results on location based machine learning and artificial intelligence algorithm to provide exciting and fascinating contents which drives user retention.<br/>
-[Android](https://play.google.com/store/apps/details?id=com.mycrawlapp.crawl)
+### 🧰 Tech Stack
 
-<div style="text-align: center"><table><tr>
-  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/crawl_4.jpg">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/crawl_4.jpg" width="200"/></a>
-</td>
- <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/maincrawl_2.jpg">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/crawl_2.jpg" width="200"/></a>
-</td>
-  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/crawl_1.jpg">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/crawl_1.jpg" width="200"/></a>
-</td>
-</tr></table></div>
-<br/><br/>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-FF6132?style=flat&logo=weaviate&logoColor=white)
 
-#### Business Automation tool
-[Android](https://play.google.com/store/apps/details?id=com.novugrid.noja360)<br/>
-A business scaling automation tool for SMES with deep focus improving sales and customer retention
-<div style="text-align: center"><table><tr>
-  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_1.png">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_1.png" width="200"/></a>
-</td>
- <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_2.png">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_2.png" width="200"/></a>
-</td>
-  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_3.png">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_3.png" width="200"/></a>
-</td>
-  </td>
-  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_5.png">
-    <img src="https://raw.githubusercontent.com/Dammyololade/Dammyololade/main/noja_5.png" width="200"/></a>
-</td>
-</tr></table></div>
+---
 
-#### Links to Other Projects
-  - Medical consultation apps with calls and chats using Twillo api integration [Android](https://play.google.com/store/apps/details?id=com.webmediks.io)
-  - Location based attorney discovery & hiring app [Android](https://play.google.com/store/apps/details?id=com.zbm.myattorney) [IOS](https://itunes.apple.com/us/app/my-attorney-ng/id1422379164#?platform=iphone)
-  - Android App for quick note/memo [Link](https://play.google.com/store/apps/details?id=com.novugrid.snappynote)
-  - Biometeric attendance system Desktop App (Java) [Organisation](https://sourceforge.net/projects/trackmetricks/), [Schools & colleges](https://sourceforge.net/p/ovice-time/)
-  - Local trade and exchange app [Android](https://play.google.com/store/apps/details?id=com.novugrid.paro_mobile) [IOS](https://apps.apple.com/us/app/baater/id1466709189)
-  - An online sales enforcer to scale local SMEs [Android](https://play.google.com/store/apps/details?id=com.novugrid.nojasales)
+### 🏗️ Currently Building — 2026 Focus
 
+<a href="https://sendos.app"><img src="assets/sendos.svg" width="100%" alt="SendOS — The Logistics Operating System for Africa"/></a>
 
-#### 📫 How to reach me:
-  - Email: dammyololade2010@gmail.com
-  - Linkedln: https://www.linkedin.com/in/adeyemo-adedamola/
-  - Twitter: https://twitter.com/dammyololade
-  - Medium: https://medium.com/@dammyololade2010
+**[SendOS](https://sendos.app)** is a complete, deploy-ready logistics stack — a branded **customer app**, **rider app**, and **operations dashboard** that work as one. Built from the ground up for African realities: **landmark-based addressing** (no postal codes needed), resilient on **3G with aggressive offline caching and auto-retries**, native **bank transfer, USSD & mobile-money** payments, and tuned for **mid-range Android** devices. Operators configure their brand and go live in **48–72 hours**.
 
-<!--
-**Dammyololade/Dammyololade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://taficloud.com"><img src="assets/taficloud.svg" width="100%" alt="TafiCloud — Smart cloud file and media platform"/></a>
 
-Here are some ideas to get you started:
+**[TafiCloud](https://taficloud.com)** is a smart cloud file & media platform that makes heavy file workflows effortless: **upload, download, merge files, extract media metadata, and convert between formats** through a clean API — complete with a native **Swift SDK** (CocoaPods & SPM) for seamless iOS integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="assets/product-reality.svg" width="100%" alt="product-reality"/>
+
+**product-reality** lets founders and builders book a **1:1 reality-check call** with me to pressure-test their idea — so they know whether what they want to build is actually worth building *before* they write a line of code.
+
+> Several of these live in private repositories while in active development.
+
+---
+
+### 🚀 Featured Open Source
+
+<a href="https://github.com/Dammyololade/flutter_polyline_points"><img src="assets/flutter_polyline_points.svg" width="100%" alt="flutter_polyline_points"/></a>
+
+**[flutter_polyline_points](https://github.com/Dammyololade/flutter_polyline_points)** &nbsp;![stars](https://img.shields.io/github/stars/Dammyololade/flutter_polyline_points?style=flat&color=40C4FF) — decodes encoded Google polyline strings into geo-coordinates for drawing routes on maps. One of the most widely-used polyline plugins in the Flutter ecosystem.
+
+<a href="https://github.com/Dammyololade/smart_coverage"><img src="assets/smart_coverage.svg" width="100%" alt="smart_coverage"/></a>
+
+**[smart_coverage](https://github.com/Dammyololade/smart_coverage)** &nbsp;![stars](https://img.shields.io/github/stars/Dammyololade/smart_coverage?style=flat&color=22D3EE) — a modern Dart CLI for intelligent test-coverage analysis with AI-powered insights for Flutter/Dart projects.
+
+<a href="https://github.com/Dammyololade/ticket-pr-validation-action"><img src="assets/ticket-pr-validation-action.svg" width="100%" alt="ticket-pr-validation-action"/></a>
+
+**[ticket-pr-validation-action](https://github.com/Dammyololade/ticket-pr-validation-action)** &nbsp;![stars](https://img.shields.io/github/stars/Dammyololade/ticket-pr-validation-action?style=flat&color=60A5FA) — a GitHub Action that validates PRs against Linear tickets, extracts acceptance criteria, and triggers AI-assisted reviews.
+
+<a href="https://github.com/Dammyololade/loki_logger"><img src="assets/loki_logger.svg" width="100%" alt="loki_logger"/></a>
+
+**[loki_logger](https://github.com/Dammyololade/loki_logger)** &nbsp;![stars](https://img.shields.io/github/stars/Dammyololade/loki_logger?style=flat&color=FB923C) — a Flutter plugin for shipping application logs straight to a Grafana Loki server.
+
+<a href="https://github.com/Dammyololade/flutter_marker_animation"><img src="assets/flutter_marker_animation.svg" width="100%" alt="flutter_marker_animation"/></a>
+
+**[flutter_marker_animation](https://github.com/Dammyololade/flutter_marker_animation)** &nbsp;![stars](https://img.shields.io/github/stars/Dammyololade/flutter_marker_animation?style=flat&color=2DD4BF) — smoothly animates Google-map markers by bridging Dart to native Kotlin/Swift.
+
+**More on GitHub:** [weaviate-console](https://github.com/Dammyololade/weaviate-console) · [flutter_github_explorer](https://github.com/Dammyololade/flutter_github_explorer) · [all repositories »](https://github.com/Dammyololade?tab=repositories)
+
+---
+
+### 🛠️ Platform & Infrastructure
+
+<img src="assets/infra.svg" width="100%" alt="Self-hosted Platform — Kubernetes, n8n and disaster recovery"/>
+
+I run my own production platform end-to-end: a **Contabo Kubernetes cluster** (manifests of record), **n8n** workflow automations exported and version-controlled, and a documented **disaster-recovery runbook** for clean restores. It's the backbone that the products above run on.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dammyololade&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dammyololade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dammyololade&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 📫 How to reach me
+- **Email:** dammyololade2010@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/adeyemo-adedamola/
+- **Twitter:** https://twitter.com/dammyololade
+- **Medium:** https://medium.com/@dammyololade2010
